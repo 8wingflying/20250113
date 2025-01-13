@@ -26,3 +26,4 @@
 
 ※適合高中職學生報名參加!!!!還打下中階深厚基礎~
 
+![IPAS初階海報240925 (1)](https://github.com/user-attachments/assets/be9a70be-deda-42e1-ae86-6e660c0b93bc)
