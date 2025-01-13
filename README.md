@@ -14,8 +14,11 @@
 
 # 國際標準
 - NIST 美國標準 ==> [NIST SP 800](https://csrc.nist.gov/publications/sp800)  | NIST SP 1800
+  - NIST CTF 1.1
+  - [NIST CTF 2.0](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf) 
 - ISO 國際標準
-  - 27001/27002
+  - 27001/27002 ==> [ISO 27001 Annex A Controls List]()
+    - [CNS 27001:2023   X6049]() 
   - 27005 
 # 模擬考範例
 - 模擬考1_CIA：https://forms.gle/Ucw38PYnfgJMSQvp7
