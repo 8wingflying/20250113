@@ -12,6 +12,11 @@
 - 第9單元	資通安全健診
 - 第10單元	資通安全事件通報及應變
 
+# 國際標準
+- NIST 美國標準 ==> [NIST SP 800](https://csrc.nist.gov/publications/sp800)  | NIST SP 1800
+- ISO 國際標準
+  - 27001/27002
+  - 27005 
 # 模擬考範例
 - 模擬考1_CIA：https://forms.gle/Ucw38PYnfgJMSQvp7
 - 模擬考2_ISMS(資訊安全管理系統), ISO 27001, NIST CSF https://forms.gle/bZYrfuxokqki5Mmd9
