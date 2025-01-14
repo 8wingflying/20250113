@@ -53,13 +53,13 @@
   - 模擬考14.資通安全事件通報及應變
 
 ## 索取資安概論測試範本，請填寫以下表單
-![索取資安概論測試範本](https://github.com/user-attachments/assets/997655ca-0375-4836-a922-d57f0411e21c)
+- [索取資安概論測試範本](https://forms.gle/L7xfk1os6XFMyToL6)
+
+![索取資安概論測試範本-250113](https://github.com/user-attachments/assets/ae4b018b-caba-4a83-9be6-20a16d226d87)
 
 ![工商招生時間 (1)](https://github.com/user-attachments/assets/6740bcb3-32ae-4041-90c2-89a5df4ccd80)
 ### 2025年曾龍老師親自授課~ 【IPAS初階資安工程師-證照推廣教育班】報名即將截止，歡迎各位老師協助推薦學生參加~~~
 
-考取率超高==>周末兩天實體課+數十小時錄影教學+ 模擬考
-
-※適合高中職學生報名參加!!!!還打下中階深厚基礎~
-
-![IPAS初階海報240925 (1)](https://github.com/user-attachments/assets/be9a70be-deda-42e1-ae86-6e660c0b93bc)
+※考取率超高==>全線上授課，不用擔心距離限制~~~<BR>
+※此課程僅開放全國高中職學生報名參加!!!!幫你打下中階深厚基礎~<BR>
+![2025-03-IPAS初階資安工程師-證照推廣教育班_海報](https://github.com/user-attachments/assets/6b7f23b0-7232-4221-a8fd-4c2093690772)
