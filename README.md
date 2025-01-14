@@ -12,20 +12,6 @@
 - 第9單元	資通安全健診
 - 第10單元	資通安全事件通報及應變
 
-# 國際標準
-- NIST 美國標準 ==> [NIST SP 800](https://csrc.nist.gov/publications/sp800)  | NIST SP 1800
-  - NIST CTF 1.1
-  - [NIST CTF 2.0](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf) 
-- ISO 國際標準
-  - 27001/27002 ==> [ISO 27001 Annex A Controls List]()
-    - [CNS 27001:2023   X6049]() 
-  - 27005 
-# 模擬考範例
-- 模擬考1_CIA：https://forms.gle/Ucw38PYnfgJMSQvp7
-- 模擬考2_ISMS(資訊安全管理系統), ISO 27001, NIST CSF https://forms.gle/bZYrfuxokqki5Mmd9
-- 模擬考3._法規遵循：https://forms.gle/JVS1xXJVheNd7Z1Y9
-- 模擬考4.風險管理  ：https://forms.gle/QrnFnom2KEWCUU6S9
-- 模擬考5.業務持續運作管理 https://forms.gle/3KEUrGf7eEMMDMgQ6
 # 模擬考範圍
 - 第1單元	資通安全基本觀念
   - 模擬考1.CIA
